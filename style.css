@@ -87,3 +87,16 @@ button:hover{
     margin-top: -10px;
     font-weight: 300;
 }
+
+@media (max-width : 600px) {
+    #main{
+        position: absolute;
+        justify-content: center;
+        align-items: center;
+        
+        
+    }
+    #main h1{
+        font-size:45px ;
+    }
+}
